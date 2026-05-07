@@ -1,22 +1,33 @@
 # 📊 Data Analyst Portfolio
 
-Hi, I'm Ashirwad Mohanty — a data enthusiast transitioning into Data Analytics.
+Hi, I'm **Ashirwad Mohanty** — a data analyst transitioning from operations into analytics, with hands-on experience in SQL, Python, and Excel.
 
-I build projects that solve real business problems using SQL, Python, and Excel.
+I build projects that extract insights from real datasets to solve business problems.
+
+---
 
 ## 🛠️ Skills
-- **SQL** — Joins, Aggregations, Subqueries, Window Functions
-- **Python** — Pandas, Matplotlib, Data Cleaning
-- **Excel** — Pivot Tables, Dashboards, VLOOKUP
+
+| Category | Tools |
+|----------|-------|
+| **SQL** | Joins, Aggregations, Subqueries, Window Functions |
+| **Python** | Pandas, Matplotlib, Seaborn, Scikit-learn |
+| **Excel** | Pivot Tables, Dashboards, XLOOKUP, Conditional Formatting |
+| **Visualization** | Tableau, Excel Charts |
+
+---
 
 ## 📁 Projects
 
 | Project | Tools | Description |
-|--------|-------|-------------|
-| [Sales Analysis - SQL](link) | SQL, SQLite | Analyzed 10,000+ sales records to find revenue trends and top products |
-| [Customer Analysis - Python](link) | Python, Pandas | Cleaned and analyzed customer data to identify behavior patterns |
-| [Sales Dashboard - Excel](link) | Excel | Built interactive dashboard with KPIs and pivot charts |
+|---------|-------|-------------|
+| [Superstore Sales Analysis](https://github.com/ashirwadmohanty10-ui/data-analyst-portfolio/blob/main/superstore_analysis.sql) | SQL | Analyzed 10,000+ sales records to identify revenue trends, top-performing products, and regional patterns |
+| [Machine Maintenance Prediction](https://github.com/ashirwadmohanty10-ui/data-analyst-portfolio/blob/main/Assignment_1.ipynb) | Python, Pandas, Scikit-learn | Built a predictive model to identify machines at risk of failure using classification and EDA |
+| [Auto MPG Regression Analysis](https://github.com/ashirwadmohanty10-ui/data-analyst-portfolio/blob/main/Assignment_1.ipynb) | Python, Pandas, Linear Regression | Predicted vehicle fuel efficiency from engine and weight features using linear regression |
+
+---
 
 ## 📬 Contact
-- LinkedIn: linkedin.com/in/ashirwad-mohanty
-- Email: ashirwadm496@gmail.com
+
+- 💼 LinkedIn: [linkedin.com/in/ashirwad-mohanty](https://linkedin.com/in/ashirwad-mohanty)
+- 📧 Email: ashirwadm496@gmail.com
